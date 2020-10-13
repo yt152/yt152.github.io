@@ -22,10 +22,10 @@
         body.margin {margin: 2cm 4cm 3cm 4cm}
 
         a{
-            color:#ffffff;
+            color:#000000;
             text-decoration: underline;
         }
         a.hover{
-            color:#ffffff;
+            color:#ff00ff;
             text-decoration: none;
         }
